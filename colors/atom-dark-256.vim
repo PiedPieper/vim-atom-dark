@@ -1311,3 +1311,7 @@ endif
 if 1
     delcommand CSAHi
 endif
+
+hi NonText ctermbg=none 
+hi Normal guibg=NONE ctermbg=NONE 
+ 
